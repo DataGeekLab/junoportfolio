@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-07_1222",
-    "currentPage": "index.html",
+    "currentPage": "Artworks.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -59,8 +59,8 @@
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "favicon": "@PROJECT_PATH@/assets/images/j-128x128_1.png",
-    "mbrsiteDomain": "ga4lck40oa",
-    "usedWebp": false,
+    "mbrsiteDomain": "odabwf9c8v",
+    "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
